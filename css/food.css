@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 70px;
+	background: white;
+	position: fixed;
+}
+.header img{
+	width: 10%;
+	padding-top: 18px;
+	padding-left: 124px;
+}
+.menu{
+	float: right;
+	padding-top: 25px;
+	padding-right: 80px;
+}
+.menu a{
+	text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    color: #d70f64;
+    letter-spacing: 1px;
+}
+.image{
+	background: url(../image/banner1.jpg);
+	width: 100%;
+	height: 550px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.image h1{
+	text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: "museo-sans", sans-serif;
+    background: transparent;
+    margin: auto;
+    width: 615px;
+    position: relative;
+    top: 228px;
+    LETTER-SPACING: 1.5PX;
+}
+.location{
+	width: 100%;
+	height: 60px;
+	background-color: #78787994;
+	margin-top: -60px;
+}
+.image1{
+	background: white;
+	width: 100%;
+	height: 600px;
+}
+.image1 h1{
+	text-align: center;
+    padding-top: 190px;
+    color: #d70f64;
+    letter-spacing: 1px;
+}
+.image1 p{
+	margin: auto;
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+.image1 a{
+	text-decoration: none;
+    background: #d70f64;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-left: 555px;
+    line-height: 70px;
+    letter-spacing: 1px;
+}
+.image2{
+	background: url(../image/banner2.jpg);
+	width: 100%;
+	height: 550px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.image2 h1{
+	text-align: center;
+    padding-top: 190px;
+    color: #d70f64;
+    letter-spacing: 1px;
+}
+.image2 p{
+	margin: auto;
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+.image2 a{
+	text-decoration: none;
+    background: #d70f64;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-left: 555px;
+    line-height: 70px;
+    letter-spacing: 1px;
+}
+.image3{
+	background: url(../image/banner3.jpg);
+	width: 100%;
+	height: 550px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.image3 h1{
+	text-align: center;
+    padding-top: 190px;
+    color: #d70f64;
+    letter-spacing: 1px;
+}
+.image3 p{
+	margin: auto;
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+.image3 a{
+	text-decoration: none;
+    background: #d70f64;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-left: 555px;
+    line-height: 70px;
+    letter-spacing: 1px;
+}
+.image4{
+	background: #d70f64;
+	width: 100%;
+	height: 600px;
+}
+.image4 h1{
+	text-align: center;
+    padding-top: 190px;
+    color: white;
+    letter-spacing: 1px;
+}
+.image4 p{
+	margin: auto;
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+.image4 a{
+	text-decoration: none;
+    background: white;
+    padding: 20px;
+    color: #d70f64;
+    text-align: center;
+    margin: auto;
+    margin-left: 555px;
+    line-height: 70px;
+    letter-spacing: 1px;
+}
+.image5{
+	background: white;
+	width: 100%;
+	height: 100px;
+}
+.image5 img{
+	    width: 18%;
+    padding: 25px;
+}

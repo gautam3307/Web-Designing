@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tables</title>
+	<style>
+		table,tr,td,th{
+			border: 2px solid black;
+			width: 1000px;
+			height: 60px;
+			text-align: center;
+			border-collapse: collapse;
+			background: white;
+
+		}
+		tr:hover{
+			background: green;
+		}
+		td:hover{
+			background: red;
+		}
+		th:hover{
+			background: yellow;
+		}
+		body{
+			background: url('image/car2.jpg');
+			background-size: cover;
+		}
+	</style>
+</head>
+<body>
+	<br>
+	<center>
+	<table>
+		<tr>
+			<th colspan="6">Table Heading</th>
+			<!-- Colspn will give table heading to 6 blocks rather 1 block -->
+		</tr>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>City</th>
+			<th>College</th>
+			<th>Phone Number</th>
+			<th>Address</th>
+		</tr>
+
+		<tr>
+			<td>Gautam</td>
+			<td>gautam1234agrawal@gmail.com</td>
+			<td>Gwalior</td>
+			<td>MITS</td>
+			<td>7089823307</td>
+			<td>MP</td>
+		</tr>
+
+		<tr>
+			<td>Gautam</td>
+			<td>gautam1234agrawal@gmail.com</td>
+			<td>Gwalior</td>
+			<td>MITS</td>
+			<td>7089823307</td>
+			<td>MP</td>
+		</tr>
+	</table>
+	</center>
+</body>
+</html>
